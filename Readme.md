@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MergeProcessor.cs](./CS/MasterDetailExample/MergeProcessor.cs) (VB: [MergeProcessor.vb](./VB/MasterDetailExample/MergeProcessor.vb))
+* [Program.cs](./CS/MasterDetailExample/Program.cs) (VB: [Program.vb](./VB/MasterDetailExample/Program.vb))
+<!-- default file list end -->
 # How to create a Master-Detail report
 
 
