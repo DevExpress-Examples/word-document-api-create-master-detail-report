@@ -6,7 +6,7 @@
 
 # Word Processing Document API - How to Create a Master-Detail Report
 
-This example shows how the MailMerge feature enhanced with the **DOCVARIABLE** field specifics empowers the users to accomplish complex reporting tasks, such as creating Master-Detail reports. 
+This example shows how the Mail Merge feature enhanced with the **DOCVARIABLE** field specifics empowers the users to accomplish complex reporting tasks, such as creating Master-Detail reports. 
 
 The project uses a three-level Supplier-Product-OrderDetail hierarchical data source with the **ITypedList** interface.
 
