@@ -9,6 +9,9 @@
 
 This example shows how the Mail Merge feature enhanced with the **DOCVARIABLE** field specifics empowers the users to accomplish complex reporting tasks, such as creating Master-Detail reports. 
 
+> [!Important]  
+> The Universal Subscription or an additional Office File API Subscription is required to use this example in production code. For pricing information, please refer to the [DevExpress Subscription](https://www.devexpress.com/Subscriptions/) page. 
+
 The project uses a three-level Supplier-Product-OrderDetail hierarchical data source with the **ITypedList** interface.
 
 ## Files to Look At:
