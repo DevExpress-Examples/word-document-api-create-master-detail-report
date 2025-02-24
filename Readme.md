@@ -16,8 +16,8 @@ The project uses a three-level Supplier-Product-OrderDetail hierarchical data so
 
 ## Files to Look At:
 
-* [MergeProcessor.cs](./CS/MasterDetailExample/MergeProcessor.cs) (VB: [MergeProcessor.vb](./VB/MasterDetailExample/MergeProcessor.vb))
-* [Program.cs](./CS/MasterDetailExample/Program.cs) (VB: [Program.vb](./VB/MasterDetailExample/Program.vb))
+* [MergeProcessor.cs](./CS/MergeProcessor.cs) (VB: [MergeProcessor.vb](./VB/MergeProcessor.vb))
+* [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
 <!-- feedback -->
 ## Does this example address your development requirements/objectives?
 

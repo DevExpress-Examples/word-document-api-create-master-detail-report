@@ -12,11 +12,12 @@ namespace MasterDetailExample
         /// The main entry point for the application.
         /// </summary>
         [STAThread]
-        static void Main()
-        {
-            MergeProcessor mProcessor = new MergeProcessor();
-            mProcessor.Start();
-            Process.Start("result.docx");
+        static void Main() {
+            var p = new Process();
+            p.StartInfo = new ProcessStartInfo(@"result.docx") {
+                UseShellExecute = true
+            };
+            p.Start();
         }
     }
 }
