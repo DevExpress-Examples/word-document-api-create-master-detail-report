@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
 using System.Diagnostics;
-using System.Linq;
-using System.Windows.Forms;
 
 namespace MasterDetailExample
 {
@@ -11,8 +7,9 @@ namespace MasterDetailExample
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
-        [STAThread]
         static void Main() {
+            MergeProcessor mProcessor = new MergeProcessor();
+            mProcessor.Start();
             var p = new Process();
             p.StartInfo = new ProcessStartInfo(@"result.docx") {
                 UseShellExecute = true
