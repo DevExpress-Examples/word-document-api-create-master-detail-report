@@ -9,11 +9,9 @@ Namespace MasterDetailExample
         ''' <summary>
         ''' The main entry point for the application.
         ''' </summary>
-        <STAThread>
         Sub Main()
-            'Dim mProcessor As MergeProcessor = New MergeProcessor()
-            'mProcessor.Start()
-            'Call Process.Start("result.docx")
+            Dim mProcessor As MergeProcessor = New MergeProcessor()
+            mProcessor.Start()
             Dim processor As New Process()
             processor.StartInfo = New ProcessStartInfo("result.docx") With {.UseShellExecute = True}
             processor.Start()
