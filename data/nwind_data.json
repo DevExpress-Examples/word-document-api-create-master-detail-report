@@ -1,0 +1,369 @@
+{
+  "Customers": [
+    {
+      "CustomerId": "ALFKI",
+      "CompanyName": "Alfreds Futterkiste",
+      "ContactName": "Maria Anders",
+      "Country": "Germany",
+      "Address": "Obere Str. 57",
+      "City": "Berlin",
+      "Phone": "030-0074321",
+      "Orders": [
+        {
+          "OrderID": "10248",
+          "OrderDate": "2025-10-01",
+          "ShipCountry": "Germany",
+          "Freight": 32.38,
+          "OrderDetails": [
+            {
+              "ProductId": 1,
+              "ProductName": "Chai",
+              "Category": "Beverages",
+              "Quantity": 10,
+              "UnitPrice": 18.00,
+              "Discount": 0.05,
+              "TotalPrice": 171.00,
+              "ShippedDate": "2025-10-03"
+            },
+            {
+              "ProductId": 2,
+              "ProductName": "Chang",
+              "Category": "Beverages",
+              "Quantity": 5,
+              "UnitPrice": 19.00,
+              "Discount": 0.00,
+              "TotalPrice": 95.00,
+              "ShippedDate": "2025-10-03"
+            },
+            {
+              "ProductId": 3,
+              "ProductName": "Aniseed Syrup",
+              "Category": "Condiments",
+              "Quantity": 5,
+              "UnitPrice": 34.80,
+              "Discount": 0.00,
+              "TotalPrice": 174.00,
+              "ShippedDate": "2025-10-04"
+            },
+            {
+              "ProductId": 4,
+              "ProductName": "Chef Anton's Cajun Seasoning",
+              "Category": "Condiments",
+              "Quantity": 6,
+              "UnitPrice": 22.00,
+              "Discount": 0.10,
+              "TotalPrice": 118.80,
+              "ShippedDate": "2025-10-04"
+            },
+            {
+              "ProductId": 5,
+              "ProductName": "Chef Anton's Gumbo Mix",
+              "Category": "Condiments",
+              "Quantity": 3,
+              "UnitPrice": 21.35,
+              "Discount": 0.00,
+              "TotalPrice": 64.05,
+              "ShippedDate": "2025-10-05"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "CustomerId": "ANATR",
+      "CompanyName": "Ana Trujillo Emparedados y helados",
+      "ContactName": "Ana Trujillo",
+      "Country": "Mexico",
+      "Address": "Avda. de la Constitución 2222",
+      "City": "México D.F.",
+      "Phone": "(5) 555-4729",
+      "Orders": [
+        {
+          "OrderID": "10249",
+          "OrderDate": "2025-10-02",
+          "ShipCountry": "Mexico",
+          "Freight": 11.61,
+          "OrderDetails": [
+            {
+              "ProductId": 2,
+              "ProductName": "Chang",
+              "Category": "Beverages",
+              "Quantity": 7,
+              "UnitPrice": 19.00,
+              "Discount": 0.10,
+              "TotalPrice": 119.70,
+              "ShippedDate": "2025-10-04"
+            },
+            {
+              "ProductId": 8,
+              "ProductName": "Northwoods Cranberry Sauce",
+              "Category": "Condiments",
+              "Quantity": 12,
+              "UnitPrice": 40.00,
+              "Discount": 0.00,
+              "TotalPrice": 480.00,
+              "ShippedDate": "2025-10-05"
+            },
+            {
+              "ProductId": 9,
+              "ProductName": "Mishi Kobe Niku",
+              "Category": "Meat/Poultry",
+              "Quantity": 2,
+              "UnitPrice": 97.00,
+              "Discount": 0.05,
+              "TotalPrice": 184.30,
+              "ShippedDate": "2025-10-05"
+            },
+            {
+              "ProductId": 12,
+              "ProductName": "Queso Manchego La Pastora",
+              "Category": "Dairy Products",
+              "Quantity": 5,
+              "UnitPrice": 38.00,
+              "Discount": 0.00,
+              "TotalPrice": 190.00,
+              "ShippedDate": "2025-10-06"
+            },
+            {
+              "ProductId": 13,
+              "ProductName": "Konbu",
+              "Category": "Seafood",
+              "Quantity": 9,
+              "UnitPrice": 6.00,
+              "Discount": 0.00,
+              "TotalPrice": 54.00,
+              "ShippedDate": "2025-10-06"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "CustomerId": "ANTON",
+      "CompanyName": "Antonio Moreno Taquería",
+      "ContactName": "Antonio Moreno",
+      "Country": "Mexico",
+      "Address": "Mataderos 2312",
+      "City": "México D.F.",
+      "Phone": "(5) 555-3932",
+      "Orders": [
+        {
+          "OrderID": "10250",
+          "OrderDate": "2025-10-03",
+          "ShipCountry": "Mexico",
+          "Freight": 65.42,
+          "OrderDetails": [
+            {
+              "ProductId": 10,
+              "ProductName": "Ikura",
+              "Category": "Seafood",
+              "Quantity": 4,
+              "UnitPrice": 31.00,
+              "Discount": 0.00,
+              "TotalPrice": 124.00,
+              "ShippedDate": "2025-10-05"
+            },
+            {
+              "ProductId": 11,
+              "ProductName": "Queso Cabrales",
+              "Category": "Dairy Products",
+              "Quantity": 6,
+              "UnitPrice": 21.00,
+              "Discount": 0.05,
+              "TotalPrice": 119.70,
+              "ShippedDate": "2025-10-05"
+            },
+            {
+              "ProductId": 14,
+              "ProductName": "Tofu",
+              "Category": "Produce",
+              "Quantity": 15,
+              "UnitPrice": 23.25,
+              "Discount": 0.00,
+              "TotalPrice": 348.75,
+              "ShippedDate": "2025-10-06"
+            },
+            {
+              "ProductId": 15,
+              "ProductName": "Genen Shouyu",
+              "Category": "Condiments",
+              "Quantity": 8,
+              "UnitPrice": 15.50,
+              "Discount": 0.10,
+              "TotalPrice": 111.60,
+              "ShippedDate": "2025-10-06"
+            },
+            {
+              "ProductId": 16,
+              "ProductName": "Pavlova",
+              "Category": "Confections",
+              "Quantity": 3,
+              "UnitPrice": 17.45,
+              "Discount": 0.00,
+              "TotalPrice": 52.35,
+              "ShippedDate": "2025-10-07"
+            },
+            {
+              "ProductId": 17,
+              "ProductName": "Alice Mutton",
+              "Category": "Meat/Poultry",
+              "Quantity": 2,
+              "UnitPrice": 39.00,
+              "Discount": 0.05,
+              "TotalPrice": 74.10,
+              "ShippedDate": "2025-10-07"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "CustomerId": "AROUT",
+      "CompanyName": "Around the Horn",
+      "ContactName": "Thomas Hardy",
+      "Country": "UK",
+      "Address": "120 Hanover Sq.",
+      "City": "London",
+      "Phone": "(171) 555-7788",
+      "Orders": [
+        {
+          "OrderID": "10251",
+          "OrderDate": "2025-10-04",
+          "ShipCountry": "UK",
+          "Freight": 41.27,
+          "OrderDetails": [
+            {
+              "ProductId": 18,
+              "ProductName": "Carnarvon Tigers",
+              "Category": "Seafood",
+              "Quantity": 12,
+              "UnitPrice": 62.50,
+              "Discount": 0.00,
+              "TotalPrice": 750.00,
+              "ShippedDate": "2025-10-06"
+            },
+            {
+              "ProductId": 19,
+              "ProductName": "Teatime Chocolate Biscuits",
+              "Category": "Confections",
+              "Quantity": 10,
+              "UnitPrice": 9.20,
+              "Discount": 0.00,
+              "TotalPrice": 92.00,
+              "ShippedDate": "2025-10-06"
+            },
+            {
+              "ProductId": 20,
+              "ProductName": "Sir Rodney's Marmalade",
+              "Category": "Confections",
+              "Quantity": 5,
+              "UnitPrice": 81.00,
+              "Discount": 0.05,
+              "TotalPrice": 384.75,
+              "ShippedDate": "2025-10-07"
+            },
+            {
+              "ProductId": 21,
+              "ProductName": "Sir Rodney's Scones",
+              "Category": "Confections",
+              "Quantity": 8,
+              "UnitPrice": 10.00,
+              "Discount": 0.00,
+              "TotalPrice": 80.00,
+              "ShippedDate": "2025-10-07"
+            },
+            {
+              "ProductId": 22,
+              "ProductName": "Gustaf's Knäckebröd",
+              "Category": "Grains/Cereals",
+              "Quantity": 14,
+              "UnitPrice": 21.00,
+              "Discount": 0.10,
+              "TotalPrice": 264.60,
+              "ShippedDate": "2025-10-08"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "CustomerId": "BERGS",
+      "CompanyName": "Berglunds snabbköp",
+      "ContactName": "Christina Berglund",
+      "Country": "Sweden",
+      "Address": "Berguvsvägen 8",
+      "City": "Luleå",
+      "Phone": "0921-12 34 65",
+      "Orders": [
+        {
+          "OrderID": "10252",
+          "OrderDate": "2025-10-05",
+          "ShipCountry": "Sweden",
+          "Freight": 29.10,
+          "OrderDetails": [
+            {
+              "ProductId": 23,
+              "ProductName": "Tunnbröd",
+              "Category": "Grains/Cereals",
+              "Quantity": 10,
+              "UnitPrice": 9.00,
+              "Discount": 0.00,
+              "TotalPrice": 90.00,
+              "ShippedDate": "2025-10-07"
+            },
+            {
+              "ProductId": 24,
+              "ProductName": "Guaraná Fantástica",
+              "Category": "Beverages",
+              "Quantity": 18,
+              "UnitPrice": 4.50,
+              "Discount": 0.00,
+              "TotalPrice": 81.00,
+              "ShippedDate": "2025-10-07"
+            },
+            {
+              "ProductId": 25,
+              "ProductName": "NuNuCa Nuß-Nougat-Creme",
+              "Category": "Confections",
+              "Quantity": 6,
+              "UnitPrice": 14.00,
+              "Discount": 0.05,
+              "TotalPrice": 79.80,
+              "ShippedDate": "2025-10-08"
+            },
+            {
+              "ProductId": 26,
+              "ProductName": "Gumbär Gummibärchen",
+              "Category": "Confections",
+              "Quantity": 9,
+              "UnitPrice": 31.23,
+              "Discount": 0.00,
+              "TotalPrice": 281.07,
+              "ShippedDate": "2025-10-08"
+            },
+            {
+              "ProductId": 27,
+              "ProductName": "Schoggi Schokolade",
+              "Category": "Confections",
+              "Quantity": 4,
+              "UnitPrice": 43.90,
+              "Discount": 0.00,
+              "TotalPrice": 175.60,
+              "ShippedDate": "2025-10-09"
+            },
+            {
+              "ProductId": 28,
+              "ProductName": "Rössle Sauerkraut",
+              "Category": "Produce",
+              "Quantity": 7,
+              "UnitPrice": 45.60,
+              "Discount": 0.10,
+              "TotalPrice": 287.28,
+              "ShippedDate": "2025-10-09"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
