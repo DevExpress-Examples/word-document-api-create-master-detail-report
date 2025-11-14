@@ -7,9 +7,8 @@
 	  <OutputType>Exe</OutputType>
     </PropertyGroup>
     <ItemGroup>
-        <PackageReference Include="DevExpress.Document.Processor" Version="25.2.1-alpha-25295" />
-        <PackageReference Include="DevExpress.Drawing.Skia" Version="25.2.1-alpha-25295" />
-        <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+        <PackageReference Include="DevExpress.Document.Processor" Version="25.2.2-beta" />
+        <PackageReference Include="DevExpress.Drawing.Skia" Version="25.2.2-beta" />
         <PackageReference Include="System.Text.Json" Version="9.0.10" />
     </ItemGroup>
 </Project>
