@@ -19,7 +19,6 @@
         </None>
     </ItemGroup>
     <ItemGroup>
-        <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
         <PackageReference Include="DevExpress.RichEdit.Core" Version="24.2.*" />
     </ItemGroup>
 </Project>
