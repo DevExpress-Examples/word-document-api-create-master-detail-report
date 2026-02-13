@@ -38,7 +38,7 @@ Word Processing Document API allows you to perform a mail merge with master-deta
 * [How to Automate Mail Merge: Generate, Populate, and Export Documents](https://github.com/DevExpress-Examples/word-document-api-mail-merge)
  
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=word-document-api-create-master-detail-report&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=word-document-api-create-master-detail-report&~~~was_helpful=no)
 
