@@ -16,7 +16,7 @@ The project uses a three-level Supplier-Product-OrderDetail hierarchical data so
 * [MergeProcessor.cs](./CS/MasterDetailExample/MergeProcessor.cs) (VB: [MergeProcessor.vb](./VB/MasterDetailExample/MergeProcessor.vb))
 * [Program.cs](./CS/MasterDetailExample/Program.cs) (VB: [Program.vb](./VB/MasterDetailExample/Program.vb))
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=word-document-api-create-master-detail-report&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=word-document-api-create-master-detail-report&~~~was_helpful=no)
 
