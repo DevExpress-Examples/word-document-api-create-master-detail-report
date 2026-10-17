@@ -1,15 +1,15 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 	<PropertyGroup>
 		<OutputType>Exe</OutputType>
-		<TargetFramework>net8.0</TargetFramework>
+		<TargetFramework>net10.0</TargetFramework>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
 	</PropertyGroup>
 
 
     <ItemGroup>
-        <PackageReference Include="DevExpress.Document.Processor" Version="25.2.2-beta" />
-        <PackageReference Include="DevExpress.Drawing.Skia" Version="25.2.2-beta" />
-		<PackageReference Include="System.Text.Json" Version="9.0.10" />
+        <PackageReference Include="DevExpress.Document.Processor" Version="26.1.5" />
+        <PackageReference Include="DevExpress.Drawing.Skia" Version="26.1.5" />
+		<PackageReference Include="System.Text.Json" Version="10.0.10" />
 	</ItemGroup>
 </Project>
